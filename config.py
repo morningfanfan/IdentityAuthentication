@@ -1,0 +1,2 @@
+DATABASE_URLSQLALCHEMY_DATABASE_URI = "sqlite:///mysql"
+SECRET_KET = "string"
